@@ -1,0 +1,12 @@
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\bin\Debug\net6.0\12.04.2023.Core.deps.json
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\bin\Debug\net6.0\12.04.2023.Core.dll
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\bin\Debug\net6.0\12.04.2023.Core.pdb
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\obj\Debug\net6.0\12.04.2023.Core.csproj.AssemblyReference.cache
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\obj\Debug\net6.0\12.04.2023.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\obj\Debug\net6.0\12.04.2023.Core.AssemblyInfoInputs.cache
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\obj\Debug\net6.0\12.04.2023.Core.AssemblyInfo.cs
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\obj\Debug\net6.0\12.04.2023.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\obj\Debug\net6.0\12.04.2023.Core.dll
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\obj\Debug\net6.0\refint\12.04.2023.Core.dll
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\obj\Debug\net6.0\12.04.2023.Core.pdb
+C:\Users\Ahad\Desktop\12.04.2023\12.04.2023.Core\obj\Debug\net6.0\ref\12.04.2023.Core.dll
